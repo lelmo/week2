@@ -11,7 +11,7 @@ const tic_tac_toe = [
 let id = 0;
 let player = "x";
 let time = 0;
-var bar = 0;
+let bar = 0;
 //let stopTimer = false;
 
 const showAlert = num => {
